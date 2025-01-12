@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+F:\Program Files\ws-faculdade\Projetos_javaFX\javafx1\.metadata\.plugins\org.eclipse.jdt.core
+1519049675.index
+1865797976.index
+497444433.index
